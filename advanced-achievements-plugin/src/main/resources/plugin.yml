@@ -107,6 +107,7 @@ permissions:
       achievement.count.shear: true
       achievement.count.snowballs: true
       achievement.count.eggs: true
+      achievement.count.eatenbeefs: true
       achievement.count.taming: true
       achievement.count.trades: true
       achievement.count.anvilsused: true
@@ -158,6 +159,9 @@ permissions:
     default: true
   achievement.count.eatenitems:
     description: Allows eaten item statistics in database to increase.
+    default: true
+  achievement.count.eatenbeefs:
+    description: Allows eaten beefs statistics in database to increase.
     default: true
   achievement.count.deaths:
     description: Allows death statistics in database to increase.

@@ -67,6 +67,8 @@ Snowballs:
   Item: snowball
 Eggs:
   Item: egg
+EatenBeefs:
+  Item: cooked_beef
 Fish:
   Item: tropical_fish
 Treasures:
