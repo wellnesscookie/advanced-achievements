@@ -97,6 +97,7 @@ permissions:
       achievement.count.itemdrops: true
       achievement.count.enchantments: true
       achievement.count.fish: true
+      achievement.count.scoreachieved: true
       achievement.count.hoeplowings: true
       achievement.count.fertilising: true
       achievement.count.fireworks: true
@@ -166,6 +167,9 @@ permissions:
     default: true
   achievement.count.gameswon:
     description: Allows games won statistics in database to increase
+    default: true
+  achievement.count.scoreachieved:
+    description: Allows score achieved statistics in database to increase
     default: true
   achievement.count.deaths:
     description: Allows death statistics in database to increase.

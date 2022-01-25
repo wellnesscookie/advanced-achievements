@@ -24,5 +24,6 @@ public class GamesWonListener extends AbstractListener {
         @EventHandler(priority = EventPriority.MONITOR, ignoreCancelled = true)
         public void onPlayerWonGame(PlayerWonGameEvent event) {
             updateStatisticAndAwardAchievementsIfAvailable(event.getIgrac(), 1);
+
         }
 }

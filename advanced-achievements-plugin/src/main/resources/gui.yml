@@ -95,6 +95,8 @@ Enchantments:
   Item: enchanting_table
 Beds:
   Item: white_bed
+ScoreAchieved:
+  Item: book
 MaxLevel:
   Item: experience_bottle
 ConsumedPotions:
