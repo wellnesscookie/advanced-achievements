@@ -140,6 +140,13 @@
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>com.serbcraft</groupId>
+			<artifactId>bridges</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/libs/Bridges-1.0.jar</systemPath>
+		</dependency>
 
 		<!-- Test dependencies -->
 		<dependency>

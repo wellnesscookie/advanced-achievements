@@ -69,6 +69,8 @@ Eggs:
   Item: egg
 EatenBeefs:
   Item: cooked_beef
+GamesWon:
+  Item: firework_rocket
 Fish:
   Item: tropical_fish
 Treasures:

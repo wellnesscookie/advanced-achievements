@@ -20,6 +20,7 @@ public enum NormalAchievements implements Category {
 	ITEMBREAKS("ItemBreaks"),
 	EATENITEMS("EatenItems"),
 	EATENBEEFS("EatenBeefs"),
+	GAMESWON("GamesWon"),
 	SHEARS("Shear"),
 	MILKS("Milk"),
 	LAVABUCKETS("LavaBuckets"),

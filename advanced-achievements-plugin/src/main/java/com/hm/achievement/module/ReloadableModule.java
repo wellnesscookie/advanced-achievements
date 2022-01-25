@@ -50,6 +50,10 @@ public interface ReloadableModule {
 
 	@Binds
 	@IntoSet
+	Reloadable bindGamesWonListener(GamesWonListener gamesWonListener);
+
+	@Binds
+	@IntoSet
 	Reloadable bindAnvilsListener(AnvilsListener anvilsListener);
 
 	@Binds

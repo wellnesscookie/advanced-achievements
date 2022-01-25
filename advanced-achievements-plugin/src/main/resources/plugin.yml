@@ -136,6 +136,7 @@ permissions:
       achievement.count.breaks.*: true
       achievement.count.kills.*: true
       achievement.count.targetsshot.*: true
+      achievement.count.gameswon: true
       achievement.count.crafts.*: true
       achievement.count.breeding.*: true
       achievement.count.playercommands.*: true
@@ -162,6 +163,9 @@ permissions:
     default: true
   achievement.count.eatenbeefs:
     description: Allows eaten beefs statistics in database to increase.
+    default: true
+  achievement.count.gameswon:
+    description: Allows games won statistics in database to increase
     default: true
   achievement.count.deaths:
     description: Allows death statistics in database to increase.
