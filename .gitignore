@@ -26,6 +26,8 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.jar
+.mv.db
 
 # Eclipse Core
 .project
